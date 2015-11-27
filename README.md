@@ -1,2 +1,2 @@
-# C-ng-vi-c-tu-n-1
+# CV Tuan 1
 Mô hình OSI
